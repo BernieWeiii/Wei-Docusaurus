@@ -99,6 +99,7 @@ const config = {
         content: "📋 自學筆記，希望我能維持每日一更！ 📋",
         backgroundColor: "#25c2a0",
         textColor: "#091E42",
+        isCloseable: false,
       },
 
       footer: {
