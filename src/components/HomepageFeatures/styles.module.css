@@ -1,3 +1,7 @@
+:root {
+  --ifm-font-size-base: 18px;
+}
+
 .features {
   display: flex;
   align-items: center;
