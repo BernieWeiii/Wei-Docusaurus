@@ -76,7 +76,6 @@ const config = {
             position: "left",
             label: "Notes",
           },
-          { to: "/About", label: "About Me", position: "left" },
           {
             href: "https://github.com/BernieWeiii",
             label: "GitHub",
